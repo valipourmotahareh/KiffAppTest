@@ -1,16 +1,32 @@
-# kiff_app_test
+# KiffAppTest
 
-test for kiffApp
+This repository contains a sample Flutter application implemented
+as a **technical task for a company evaluation**.
 
-## Getting Started
+The purpose of this project was to demonstrate:
+- Flutter UI implementation
+- Basic app architecture
+- Handling simple features based on task requirements
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Dart
+- Basic state management
+- UI layout and responsiveness
 
-A few resources to get you started if this is your first Flutter project:
+## Project Scope
+This app was developed within a limited timeframe as part of a  
+technical evaluation process. It is **not a full production-ready app**,
+but a focused demonstration of implementation and organization skills.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Key Features Implemented
+- Basic UI screens according to the task brief
+- Navigation between screens
+- Simple widget structures
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Status
+Completed (Company Technical Task)
+
+## Notes
+This project reflects task-specific requirements and may not include
+full production-level features or architecture refinements.
